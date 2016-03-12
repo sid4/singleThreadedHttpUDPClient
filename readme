@@ -1,0 +1,8 @@
+For compiling:
+make -f make1
+
+
+For running:
+./client <hostname> <portno> <filename>
+
+File specified in argument is fetched from udp server
